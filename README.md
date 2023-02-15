@@ -45,12 +45,11 @@ Describe the logic that evaluates the player's victory/loss/progress status.
 - Something else I don't technically know how to do... _yet_. :)
 
 ## Project Planning
-
-| Date      | Goals                                                                    |
-| --------- | ------------------------------------------------------------------------ |
-| Mon. 7/11 | Create GitHub repository. Complete README.md.                            |
-| Wed. 7/13 |                                                                          |
-| Sat. 7/16 |                                                                          |
-| Mon. 7/18 |                                                                          |
-| Wed. 7/20 |                                                                          |
-| Sat. 7/23 | Deploy to GitHub Pages. Submit completed project. Project presentations. |
+| Date | Goals |
+| ---- | ----- |
+| Mon. 2/13 | Create GitHub repository. Complete README.md. |
+| Wed. 2/15 | Making sure your deployment to GitHub Pages works. |
+| Sat. 2/18 |      |
+| Mon. 2/20 |      |
+| Wed. 2/22 | Test project and plan to test and ensure GitHub Pages deploy is up to date and working successfully ahead of your final commit.  |
+| Sat. 2/25 |  Submit completed project. Project presentations. |
