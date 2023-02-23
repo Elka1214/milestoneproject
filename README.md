@@ -9,7 +9,7 @@ Complete the planning sections below and include them in the README.md of your p
 
 ## Project Description
 
-I want to do slot machine game with matching. The handle will be pulled and images will appear if all match you win. 
+I have decided to do a card matching game. As a child I loved playing them on the floor with actual cards with my brother.
 
 ## Game Logic
 
@@ -37,6 +37,9 @@ Describe the logic that evaluates the player's victory/loss/progress status.
 - Another thing my game must do to meet my minimum standard.
 - One more thing.
 - Etc.
+1 player game
+10 cards to flip
+likely be timed for a min
 
 ### Post-MVP Plans
 
@@ -45,11 +48,10 @@ Describe the logic that evaluates the player's victory/loss/progress status.
 - Something else I don't technically know how to do... _yet_. :)
 
 ## Project Planning
-| Date | Goals |
-| ---- | ----- |
-| Mon. 2/13 | Create GitHub repository. Complete README.md. |
-| Wed. 2/15 | Making sure your deployment to GitHub Pages works. |
-| Sat. 2/18 |      |
-| Mon. 2/20 |      |
-| Wed. 2/22 | Test project and plan to test and ensure GitHub Pages deploy is up to date and working successfully ahead of your final commit.  |
-| Sat. 2/25 |  Submit completed project. Project presentations. |
+|Date      | Goals                          | Mon. 2/13 | Create a GitHub repository. Complete a README.md according to official template.                                                   |
+| Wed. 2/15 | Deploy your repo to GitHub Pages and make sure it deploys correctly.                                                               |
+| Sat. 2/18 | Work day in class                                                                                                                  |
+| Mon. 2/20 | No class: President’s Day                                                                                                          |
+| Wed. 2/22 | Work day in class                                                                                                                  |
+| Sat. 2/25 | Test that project works, also ensuring your GitHub Pages deploy is up to date and working successfully ahead of your final commit. |
+| Mon. 2/27 | Submit your completed project. Present your project.
