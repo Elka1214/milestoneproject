@@ -31,18 +31,21 @@ p {
 
 .grid-container {
   display: grid;
+  border: 1px solid white;
   justify-content: center;
-  grid-gap: 16px;
+  grid-gap: 10px;
   grid-template-columns: repeat(6, 140px);
   grid-template-rows: repeat(2, calc(140px / 2 * 3));
 }
 
 .card {
   background-color: white;
-  height: calc(140px / 2 * 3);
+  border: 1px solid white;
+  /* height: calc(140px / 2 * 3); */
+  height: 140px;
   border-radius: 10px;
   transition: 0.5s;
-  width: 140px;
+  width: 80px;
   transform-style: preserve-3d;
   position: relative;
 }
