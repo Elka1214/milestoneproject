@@ -4,29 +4,60 @@
     <meta charset="utf-8" />
     <title>Memory Card Game</title>
     <link rel="stylesheet" type="text/css" href="style.css" />
+    <h1>Memory Card Game</h1>
   </head>
   <body>
-    <h1>Memory Cards</h1>
-    <div class="grid-container">
-      <div class="card">
-        <img src="assets/data/images/tile000.png" alt="ducky" />
+   
+    <section class="memory-game">
+      <div class="memory-card" data-framework="kitty">
+        <img class="front-face" src="assets/data/images/tile011.png" alt="front-face" />
+        <img class="back-face" src="assets/data/images/background.png" alt="back-face" />
       </div>
-      <div class="card">3</div>
-      <div class="card">4</div>
-      <div class="card">5</div>
-      <div class="card">6</div>
-      <div class="card">7</div>
-      <div class="card">8</div>
-      <div class="card">9</div>
-      <div class="card">10</div>
-      <div class="card">11</div>
-      <div class="card">12</div>
-      <div class="card">12</div>
-    </div>
-    <p>Score: <span class="score"></span></p>
-    <div class="actions">
-      <button onclick="restart()">Restart</button>
-    </div>
+      <div class="memory-card"data-framework="birdie">
+        <img class="front-face" src="assets/data/images/tile010.png" alt="front-face" />
+        <img class="back-face" src="assets/data/images/background.png" alt="back-face" />
+      </div>
+      <div class="memory-card" data-framework="lamb">
+        <img class="front-face" src="assets/data/images/tile009.png" alt="front-face" />
+        <img class="back-face" src="assets/data/images/background.png" alt="back-face" />
+      </div>
+      <div class="memory-card" data-framework="cow">
+        <img class="front-face" src="assets/data/images/tile008.png" alt="front-face" />
+        <img class="back-face" src="assets/data/images/background.png" alt="back-face" />
+      </div>
+      <div class="memory-card" data-framework="chick">
+        <img class="front-face" src="assets/data/images/tile007.png" alt="front-face" />
+        <img class="back-face" src="assets/data/images/background.png" alt="back-face" />
+      </div>
+      <div class="memory-card"data-framework="ducky">
+        <img class="front-face" src="assets/data/images/tile000.png" alt="front-face" />
+        <img class="back-face" src="assets/data/images/background.png" alt="back-face" />
+      </div>
+      <div class="memory-card" data-framework="ducky">
+        <img class="front-face" src="assets/data/images/tile000.png" alt="front-face" />
+        <img class="back-face" src="assets/data/images/background.png" alt="back-face" />
+      </div>
+      <div class="memory-card" data-framework="chick">
+        <img class="front-face" src="assets/data/images/tile007.png" alt="front-face" />
+        <img class="back-face" src="assets/data/images/background.png" alt="back-face" />
+      </div>
+      <div class="memory-card" data-framework="cow">
+        <img class="front-face" src="assets/data/images/tile008.png" alt="front-face" />
+        <img class="back-face" src="assets/data/images/background.png" alt="back-face" />
+      </div>
+      <div class="memory-card" data-framework="lamb">
+        <img class="front-face" src="assets/data/images/tile009.png" alt="front-face" />
+        <img class="back-face" src="assets/data/images/background.png" alt="back-face" />
+      </div>
+      <div class="memory-card" data-framework="birdie">
+        <img class="front-face" src="assets/data/images/tile010.png" alt="front-face" />
+        <img class="back-face" src="assets/data/images/background.png" alt="back-face" />
+      </div>
+      <div class="memory-card" data-framework="kitty">
+        <img class="front-face" src="assets/data/images/tile011.png" alt="front-face" />
+        <img class="back-face" src="assets/data/images/background.png" alt="back-face" />
+      </div>
+      
     <script src="index.js"></script>
   </body>
 </html>
